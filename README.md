@@ -1,4 +1,4 @@
-Hi, I'm Quinton 👋
+<head>Hi, I'm Quinton 👋</head>
 
 Welcome to my GitHub! I’m a passionate Cybersecurity Expert, Cloud Engineer, and IT Professional, dedicated to building secure, scalable, and efficient technology solutions. With years of experience in securing networks, managing cloud infrastructures, and optimizing IT systems, I’m always focused on delivering innovative solutions that empower businesses to stay secure and thrive in today’s fast-paced digital landscape.
 
@@ -7,3 +7,17 @@ My expertise spans across cloud architecture, cybersecurity practices, and IT ma
 Feel free to explore my repositories to see the tools, scripts, and projects I’m working on, and don’t hesitate to reach out if you’re interested in collaborating or discussing the latest in cloud security, IT infrastructure, or cybersecurity trends.
 
 Let’s secure and scale the future of tech together! 🔐🌐
+
+# Cybersecurity Projects
+
+## Cybersecurity Attack Prevention Strategies
+- [Project 1: Coming Soon](https://github.com/your-username/project1)
+
+## Cybersecurity for Systems and Networks
+- [Project 1: Coming Soon](https://github.com/your-username/project4)
+
+## Cybersecurity Threat and Analysis
+- [Project 1: Coming Soon](https://github.com/your-username/project7)
+
+## Introduction to Cybersecurity
+- [Project 1: Coming Soon](https://github.com/your-username/project10)
