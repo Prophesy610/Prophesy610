@@ -1,4 +1,4 @@
-<head>Hi, I'm Quinton 👋</head>
+# Hi, I'm Quinton 👋
 
 Welcome to my GitHub! I’m a passionate Cybersecurity Expert, Cloud Engineer, and IT Professional, dedicated to building secure, scalable, and efficient technology solutions. With years of experience in securing networks, managing cloud infrastructures, and optimizing IT systems, I’m always focused on delivering innovative solutions that empower businesses to stay secure and thrive in today’s fast-paced digital landscape.
 
