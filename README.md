@@ -22,7 +22,7 @@ Let’s secure and scale the future of tech together! 🔐🌐
 - [Project 1: Uploading Soon](https://github.com/your-username/project1)
 
 #### Cybersecurity Threat and Analysis 
-- [Project 1: Uploading Soon](https://github.com/your-username/project4)
+- [SHA256 Hash Checker](https://github.com/Prophesy610/SHA256_Hash_Checker)
 
 #### Cybersecurity for Systems and Networks
 - [Project 1: Uploading Soon](https://github.com/your-username/project7)
