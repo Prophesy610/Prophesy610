@@ -8,16 +8,23 @@ Feel free to explore my repositories to see the tools, scripts and projects I’
 
 Let’s secure and scale the future of tech together! 🔐🌐
 
-# Cybersecurity Projects
+## Software Development Projects
 
-## Introduction to Cybersecurity 
+#### Powershell 
+- [Project 1: Uploading Soon](https://github.com/your-username/project1)
+#### Python 
+- [Project 1: Uploading Soon](https://github.com/your-username/project1)
+  
+## Cybersecurity Projects
+
+#### Introduction to Cybersecurity 
 - [Project 1: Uploading Soon](https://github.com/your-username/project1)
 
-## Cybersecurity Threat and Analysis 
+#### Cybersecurity Threat and Analysis 
 - [Project 1: Uploading Soon](https://github.com/your-username/project4)
 
-## Cybersecurity for Systems and Networks
+#### Cybersecurity for Systems and Networks
 - [Project 1: Uploading Soon](https://github.com/your-username/project7)
 
-## Cybersecurity Attack Prevention Strategies
+#### Cybersecurity Attack Prevention Strategies
 - [Project 1: Uploading Soon](https://github.com/your-username/project10)
