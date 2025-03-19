@@ -8,14 +8,13 @@ Feel free to explore my repositories to see the tools, scripts and projects I’
 
 Let’s secure and scale the future of tech together! 🔐🌐
 
-## Software Development Projects
+## Cloud Projects
 
-#### Powershell 
+#### AWS 
 - [Project 1: Uploading Soon](https://github.com/your-username/project1)
-#### Python 
-- [Auto-Unzipper: Unzip and Delete Zip Files Automatically](https://github.com/Prophesy610/auto_unzipper)
-- [Book Title Filename Formatter](https://github.com/Prophesy610/book_title_filename_formatter)
-- [Deleting Duplicate Files](https://github.com/Prophesy610/delete_duplicates)
+
+#### Azure 
+- [Project 1: Uploading Soon](https://github.com/your-username/project1)
   
 ## Cybersecurity Projects
 
@@ -30,3 +29,13 @@ Let’s secure and scale the future of tech together! 🔐🌐
 
 #### Cybersecurity Attack Prevention Strategies
 - [Project 1: Uploading Soon](https://github.com/your-username/project10)
+
+## Software Development Projects
+
+#### Powershell 
+- [Project 1: Uploading Soon](https://github.com/your-username/project1)
+  
+#### Python 
+- [Auto-Unzipper: Unzip and Delete Zip Files Automatically](https://github.com/Prophesy610/auto_unzipper)
+- [Book Title Filename Formatter](https://github.com/Prophesy610/book_title_filename_formatter)
+- [Deleting Duplicate Files](https://github.com/Prophesy610/delete_duplicates)
