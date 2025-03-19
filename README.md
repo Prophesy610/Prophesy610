@@ -14,6 +14,7 @@ Let’s secure and scale the future of tech together! 🔐🌐
 - [Project 1: Uploading Soon](https://github.com/your-username/project1)
 #### Python 
 - [Auto-Unzipper: Unzip and Delete Zip Files Automatically](https://github.com/Prophesy610/auto_unzipper)
+- [Book Title Filename Formatter](https://github.com/Prophesy610/book_title_filename_formatter)
 - [Deleting Duplicate Files](https://github.com/Prophesy610/delete_duplicates)
   
 ## Cybersecurity Projects
