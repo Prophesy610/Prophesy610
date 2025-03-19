@@ -13,7 +13,8 @@ Let’s secure and scale the future of tech together! 🔐🌐
 #### Powershell 
 - [Project 1: Uploading Soon](https://github.com/your-username/project1)
 #### Python 
-- [Project 1: Uploading Soon](https://github.com/your-username/project1)
+- [Deleting Duplicate Files](https://github.com/Prophesy610/delete_duplicates)
+- [Project 2: Uploading Soon](https://github.com/your-username/project1)
   
 ## Cybersecurity Projects
 
