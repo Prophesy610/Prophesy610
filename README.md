@@ -25,11 +25,10 @@ Let’s secure and scale the future of tech together! 🔐🌐
 - [SHA256 Hash Checker](https://github.com/Prophesy610/SHA256_Hash_Checker)
 
 #### Cybersecurity for Systems and Networks
-- [Project 1: Uploading Soon](https://github.com/your-username/project7)
+- [Project 1: Uploading Soon](https://github.com/your-username/project1)
 
 #### Cybersecurity Attack Prevention Strategies
 - [Ransomware Threat Overview Defense Strategy](https://github.com/Prophesy610/Ransomware-Threat-Overview-Defense-Strategy)
-- [Project 1: Uploading Soon](https://github.com/your-username/project10)
 
 ## Software Development Projects
 
