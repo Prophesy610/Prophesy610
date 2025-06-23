@@ -28,11 +28,13 @@ Let’s secure and scale the future of tech together! 🔐🌐
 - [Project 1: Uploading Soon](https://github.com/your-username/project7)
 
 #### Cybersecurity Attack Prevention Strategies
+- [Ransomware Threat Overview Defense Strategy](https://github.com/Prophesy610/Ransomware-Threat-Overview-Defense-Strategy)
 - [Project 1: Uploading Soon](https://github.com/your-username/project10)
 
 ## Software Development Projects
 
 #### Powershell 
+- [Ransomware Detection Script](https://github.com/Prophesy610/Ransomware-Threat-Overview-Defense-Strategy)
 - [PowerShell Script: Bulk AD User Creation via CSV (Mail Merge Style)](https://github.com/Prophesy610/Bulk-AD-User-Creation)
   
 #### Python 
