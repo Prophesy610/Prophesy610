@@ -33,7 +33,7 @@ Let’s secure and scale the future of tech together! 🔐🌐
 ## Software Development Projects
 
 #### Powershell 
-- [PowerShell Script: Bulk AD User Creation via CSV (Mail Merge Style)](https://github.com/Prophesy610/Bulk-AD-User-Creation))
+- [PowerShell Script: Bulk AD User Creation via CSV (Mail Merge Style)](https://github.com/Prophesy610/Bulk-AD-User-Creation)
   
 #### Python 
 - [Auto-Unzipper: Unzip and Delete Zip Files Automatically](https://github.com/Prophesy610/auto_unzipper)
